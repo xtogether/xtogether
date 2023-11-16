@@ -1,15 +1,31 @@
 ## Share your Twitter Account Here
 
-Example:
+| Account URL                                   | Tags                                                                    |
+| -------                                       | ----                                                                    |
+| https://twitter.com/RealFeatBit               | "Open Source", "Developer Tool", "Feature Flag Service"                 |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
+|                                               |                                                                         |
 
-Account URL: https://twitter.com/RealFeatBit
-Tags: "Open Source", "Developer Tool", "Feature Flag Service"
-
-## List
-
-Account URL: https://twitter.com/RealFeatBit
-Tags: "Open Source", "Developer Tool", "Feature Flag Service"
----
 
 
 
