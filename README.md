@@ -6,3 +6,6 @@ If you're eager for others to follow your account and spread the word about your
 To share your experiences, create a new file in the `Share-Your-Experience` folder. As our community grows, you'll gain access to a higher-quality, potentially more relevant audience.
 
 Remember, this platform is more than just a place to share your Twitter account. It's an opportunity to showcase your outstanding products to an audience that truly needs them, contributing to a more connected and positive world.
+
+
+To contribute and add an X account, please fork this project and submit a pull request with your changes.
